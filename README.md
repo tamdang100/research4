@@ -3,7 +3,7 @@
 
 ### Brief description
 - This paper investigates the geopolitical risk spillovers among BRICS countries during the 1985–2022 period. 
-- We adopt the novel quantile frequency connectedness approach, which allows us to examine the risk transmission by frequency and quantile.
+- We adopt the novel quantile frequency connectedness approach, which allows us to examine the risk transmission by frequency and quantile.
 - Published in Scottish Journal of Political Economy (an **A-ranked** journal)
 
 
